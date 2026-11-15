@@ -1,0 +1,9 @@
+{
+ "targets": [
+  {
+   "kind": "aws_role",
+   "label": "control-invalid-account",
+   "role_arn": "arn:aws:iam::123456789012:role/c211-i98180-nonexistent"
+  }
+ ]
+}
